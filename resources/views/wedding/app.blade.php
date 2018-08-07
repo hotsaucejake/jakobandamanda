@@ -62,12 +62,33 @@
         <section class="hero">
             <div class="hero-slider hero-slider-s1">
                 <div class="slide-item">
-                    <img src="/wedding/images/slider/slide-1.jpg" alt class="slider-bg">
+                    <img src="/wedding/images/engagement/002.jpg" alt class="slider-bg">
+                </div>
+                <div class="slide-item">
+                    <img src="/wedding/images/engagement/007.jpg" alt class="slider-bg">
+                </div>
+                <div class="slide-item">
+                    <img src="/wedding/images/engagement/009.jpg" alt class="slider-bg">
+                </div>
+                <div class="slide-item">
+                    <img src="/wedding/images/engagement/010.jpg" alt class="slider-bg">
+                </div>
+                <div class="slide-item">
+                    <img src="/wedding/images/engagement/015.jpg" alt class="slider-bg">
+                </div>
+                <div class="slide-item">
+                    <img src="/wedding/images/engagement/023.jpg" alt class="slider-bg">
+                </div>
+                <div class="slide-item">
+                    <img src="/wedding/images/engagement/029.jpg" alt class="slider-bg">
+                </div>
+                <div class="slide-item">
+                    <img src="/wedding/images/engagement/037.jpg" alt class="slider-bg">
+                </div>
+                <div class="slide-item">
+                    <img src="/wedding/images/engagement/041.jpg" alt class="slider-bg">
                 </div>
 
-                <div class="slide-item">
-                    <img src="/wedding/images/slider/slide-2.jpg" alt class="slider-bg">
-                </div>
             </div>
             <div class="wedding-announcement">
                 <div class="couple-name-merried-text">
