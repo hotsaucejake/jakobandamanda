@@ -4,7 +4,7 @@
             <div class="col col-xs-12">
                 <div class="section-title">
                     <div class="vertical-line"><span><i class="fi flaticon-two"></i></span></div>
-                    <h2>Bridesmaids &amp; Groomsmen</h2>
+                    <h2>Wedding Party</h2>
                 </div>
             </div>
         </div> <!-- end section-title -->
@@ -15,7 +15,7 @@
                     <div class="tablist">
                         <ul class="nav">
                             <li class="active">
-                                <a href="#bridesmaid" data-toggle="tab">Bridesmaids</a>
+                                <a href="#bridesmaid" data-toggle="tab">Bridal Party</a>
                             </li>
                             <li>
                                 <a href="#groomsmen" data-toggle="tab">Groomsmen</a>

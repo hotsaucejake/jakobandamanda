@@ -675,7 +675,7 @@
 	}
 
 	.tab-content .grid {
-		width: 33.33%;
+		width: 25%;
 		float: left;
 		padding: 0 15px 0;
 
@@ -693,9 +693,10 @@
 	}
 
 	@include widther(992px) {
-		.tab-content .grid-wrapper > .grid:nth-child(4),
 		.tab-content .grid-wrapper > .grid:nth-child(5),
-		.tab-content .grid-wrapper > .grid:nth-child(6) {
+		.tab-content .grid-wrapper > .grid:nth-child(6),
+		.tab-content .grid-wrapper > .grid:nth-child(7),
+		.tab-content .grid-wrapper > .grid:nth-child(8) {
 			margin-top: 30px;
 		}
 	}
@@ -704,7 +705,9 @@
 		.tab-content .grid-wrapper > .grid:nth-child(3),
 		.tab-content .grid-wrapper > .grid:nth-child(4),
 		.tab-content .grid-wrapper > .grid:nth-child(5),
-		.tab-content .grid-wrapper > .grid:nth-child(6) {
+		.tab-content .grid-wrapper > .grid:nth-child(6),
+		.tab-content .grid-wrapper > .grid:nth-child(7),
+		.tab-content .grid-wrapper > .grid:nth-child(8)  {
 			margin-top: 30px;
 		}
 	}
@@ -713,7 +716,9 @@
 		.tab-content .grid-wrapper > .grid:nth-child(3),
 		.tab-content .grid-wrapper > .grid:nth-child(4),
 		.tab-content .grid-wrapper > .grid:nth-child(5),
-		.tab-content .grid-wrapper > .grid:nth-child(6) {
+		.tab-content .grid-wrapper > .grid:nth-child(6),
+		.tab-content .grid-wrapper > .grid:nth-child(7),
+		.tab-content .grid-wrapper > .grid:nth-child(8)  {
 			margin-top: 0;
 		}
 
