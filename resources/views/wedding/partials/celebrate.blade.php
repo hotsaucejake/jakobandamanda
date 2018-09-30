@@ -1,4 +1,4 @@
-<section class="cta section-padding parallax" data-bg-image="/wedding/images/cta-bg.jpg" data-speed="7">
+<section class="cta section-padding parallax" data-bg-image="/wedding/images/engagement/029.jpg" data-speed="7">
     <div class="container">
         <div class="row">
             <div class="col col-xs-12">

@@ -1,4 +1,4 @@
-<section class="count-down-section section-padding parallax" data-bg-image="/wedding/images/countdown-bg.jpg" data-speed="7">
+<section class="count-down-section section-padding parallax" data-bg-image="/wedding/images/engagement/037.jpg" data-speed="7">
     <div class="container">
         <div class="row">
             <div class="col col-md-4">

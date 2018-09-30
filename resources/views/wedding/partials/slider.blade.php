@@ -9,9 +9,11 @@
         <div class="slide-item">
             <img src="/wedding/images/engagement/015.jpg" alt class="slider-bg">
         </div>
+        <!--
         <div class="slide-item">
             <img src="/wedding/images/engagement/002.jpg" alt class="slider-bg">
         </div>
+        -->
         <div class="slide-item">
             <img src="/wedding/images/engagement/007.jpg" alt class="slider-bg">
         </div>

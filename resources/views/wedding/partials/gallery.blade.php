@@ -4,13 +4,14 @@
             <div class="col col-xs-12">
                 <div class="section-title">
                     <div class="vertical-line"><span><i class="fi flaticon-two"></i></span></div>
-                    <h2>Our gallery</h2>
+                    <h2>Gallery</h2>
                 </div>
             </div>
         </div> <!-- end section-title -->
 
         <div class="row">
             <div class="col col-xs-12 sortable-gallery">
+                <!--
                 <div class="gallery-filters">
                     <ul>
                         <li><a data-filter="*" href="#" class="current">All</a></li>
@@ -19,57 +20,55 @@
                         <li><a data-filter=".party" href="#">Party</a></li>
                     </ul>
                 </div>
+                -->
 
                 <div class="gallery-container gallery-fancybox masonry-gallery">
                     <div class="grid wedding">
-                        <a href="/wedding/images/gallery/img-1.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/wedding/images/gallery/img-1.jpg" alt class="img img-responsive">
+                        <a href="/wedding/images/engagement/002.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/wedding/images/engagement/002.jpg" alt class="img img-responsive">
                         </a>
                     </div>
                     <div class="grid wedding ceremony">
-                        <a href="/wedding/images/gallery/img-2.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/wedding/images/gallery/img-2.jpg" alt class="img img-responsive">
+                        <a href="/wedding/images/engagement/007.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/wedding/images/engagement/007.jpg" alt class="img img-responsive">
                         </a>
                     </div>
                     <div class="grid ceremony eudcation">
-                        <a href="/wedding/images/gallery/img-3.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/wedding/images/gallery/img-3.jpg" alt class="img img-responsive">
+                        <a href="/wedding/images/engagement/009.jpg class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/wedding/images/engagement/009.jpg" alt class="img img-responsive">
                         </a>
                     </div>
                     <div class="grid wedding party">
-                        <a href="/wedding/images/gallery/img-4.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/wedding/images/gallery/img-4.jpg" alt class="img img-responsive">
+                        <a href="/wedding/images/engagement/010.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/wedding/images/engagement/010.jpg" alt class="img img-responsive">
                         </a>
                     </div>
                     <div class="grid ceremony">
-                        <a href="/wedding/images/gallery/img-5.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/wedding/images/gallery/img-5.jpg" alt class="img img-responsive">
+                        <a href="/wedding/images/engagement/015.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/wedding/images/engagement/015.jpg" alt class="img img-responsive">
                         </a>
                     </div>
                     <div class="grid party">
-                        <a href="/wedding/images/gallery/img-6.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/wedding/images/gallery/img-6.jpg" alt class="img img-responsive">
+                        <a href="/wedding/images/engagement/023.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/wedding/images/engagement/023.jpg" alt class="img img-responsive">
                         </a>
                     </div>
                     <div class="grid wedding">
-                        <a href="/wedding/images/gallery/img-7.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/wedding/images/gallery/img-7.jpg" alt class="img img-responsive">
+                        <a href="/wedding/images/engagement/029.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/wedding/images/engagement/029.jpg" alt class="img img-responsive">
                         </a>
                     </div>
-                    <div class="grid ceremony">
-                       <!--  <a href="/wedding/images/gallery/img-8.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/wedding/images/gallery/img-8.jpg" alt class="img img-responsive">
-                        </a> -->
-                        <a href="#" data-type="iframe" class="video-play-btn">
-                            <img src="/wedding/images/gallery/img-8.jpg" alt class="img img-responsive">
-                        </a>
-
-                    </div>
-                    <div class="grid ceremony">
-                        <a href="/wedding/images/gallery/img-9.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/wedding/images/gallery/img-9.jpg" alt class="img img-responsive">
+                    <div class="grid wedding">
+                        <a href="/wedding/images/engagement/037.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/wedding/images/engagement/037.jpg" alt class="img img-responsive">
                         </a>
                     </div>
+                    <div class="grid wedding">
+                        <a href="/wedding/images/engagement/041.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/wedding/images/engagement/041.jpg" alt class="img img-responsive">
+                        </a>
+                    </div>
+                    
                 </div>
             </div>
         </div> <!-- end row -->
