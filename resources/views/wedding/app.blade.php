@@ -74,7 +74,7 @@
 
 
         <!-- start gift-registration-section -->
-        @include('wedding.partials.registration')
+        {{-- include('wedding.partials.registration') --}}
         <!-- end gift-registration-section -->
 
 
