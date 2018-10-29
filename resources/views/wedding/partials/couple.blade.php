@@ -17,12 +17,12 @@
                         </div>
                     </div>
                     <div class="img-holder wow fadeInRightSlow">
-                        <img src="/wedding/images/couple/img-2.jpg" alt>
+                        <img src="/amanda.jpg" alt>
                     </div>
                 </div>
                 <div class="gb groom">
                     <div class="img-holder wow fadeInLeftSlow">
-                        <img src="/wedding/images/couple/img-1.jpg" alt>
+                        <img src="/jakob.jpg" alt>
                     </div>
                     <div class="details">
                         <div class="details-inner">

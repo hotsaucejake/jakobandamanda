@@ -1,10 +1,10 @@
-<section class="events-section section-padding" id="events">
+<section class="events-section section-padding" id="details">
     <div class="container">
         <div class="row">
             <div class="col col-xs-12">
                 <div class="section-title">
                     <div class="vertical-line"><span><i class="fi flaticon-two"></i></span></div>
-                    <h2>Wedding events</h2>
+                    <h2>Details</h2>
                 </div>
             </div>
         </div> <!-- end section-title -->

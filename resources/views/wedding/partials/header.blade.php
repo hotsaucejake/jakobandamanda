@@ -18,25 +18,10 @@
                     <li><a href="#home">Home</a></li>
                     <li><a href="#couple">Couple</a></li>
                     <li><a href="#story">Story</a></li>
-                    <li><a href="#events">Events</a></li>
-                    <li><a href="#people">People</a></li>
+                    <li><a href="#details">Details</a></li>
+                    <li><a href="#people">Wedding Party</a></li>
                     <li><a href="#gallery">Gallery</a></li>
                     <li><a href="#rsvp">RSVP</a></li>
-                    <li class="menu-item-has-children">
-                        <a href="javascript:void(0);">Blog</a>
-                        <ul class="sub-menu">
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Blog Details</a></li>
-                            <li class="menu-item-has-children">
-                                <a href="#Level3">Thidr level</a>
-                                <ul class="sub-menu">
-                                    <li><a href="#">Level3</a></li>
-                                    <li><a href="#">Level3</a></li>
-                                    <li><a href="#">Level3</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
                 </ul>
             </div><!-- end of nav-collapse -->
         </div><!-- end of container -->

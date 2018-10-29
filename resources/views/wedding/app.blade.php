@@ -48,7 +48,7 @@
 
 
         <!-- start events-section -->
-        @include('wedding.partials.events')
+        @include('wedding.partials.details')
         <!-- end events-section -->
 
 
