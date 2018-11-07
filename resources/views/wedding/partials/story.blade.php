@@ -21,16 +21,20 @@
                             </div>
                         </div>
                         <div class="col col-md-6">
-                            <div class="img-holder">
-                                <img src="/wedding/images/story/img-1.jpg" alt class="img img-responsive">
+                            <div class="img-holder story-slider">
+                                <img src="/wedding/images/story/work.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/brewery.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/dinner.jpg" alt class="img img-responsive">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col col-md-6">
                             <div class="img-holder right-align-text story-slider">
-                                <img src="/wedding/images/story/img-2.jpg" alt class="img img-responsive">
-                                <img src="/wedding/images/story/img-3.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/bball.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/braves.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/braves2.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/football.jpg" alt class="img img-responsive">
                             </div>
                         </div>
                         <div class="col col-md-6 text-holder">
@@ -57,16 +61,19 @@
                         </div>
                         <div class="col col-md-6">
                             <div class="img-holder right-align-text story-slider">
-                                <img src="/wedding/images/story/img-7.jpg" alt class="img img-responsive">
-                                <img src="/wedding/images/story/img-5.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/engagement.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/420.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/littlebites.jpg" alt class="img img-responsive">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col col-md-6">
                             <div class="img-holder right-align-text story-slider">
-                                <img src="/wedding/images/story/img-7.jpg" alt class="img img-responsive">
-                                <img src="/wedding/images/story/img-5.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/wedding.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/together.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/together2.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/mimosa.jpg" alt class="img img-responsive">
                             </div>
                         </div>
                         <div class="col col-md-6 text-holder">

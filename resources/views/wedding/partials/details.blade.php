@@ -13,7 +13,7 @@
             <div class="col col-lg-10 col-lg-offset-1">
                 <div class="event">
                     <div class="img-holder">
-                        <img src="/wedding/images/events/img-1.jpg" alt class="img img-responsive">
+                        <img src="/wedding/images/primrose.jpg" alt class="img img-responsive">
                     </div>
                     <div class="details">
                         <h3>Wedding and Reception</h3>
