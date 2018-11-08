@@ -34,7 +34,7 @@
                         </a>
                     </div>
                     <div class="grid ceremony eudcation">
-                        <a href="/wedding/images/engagement/009.jpg class="fancybox" data-fancybox-group="gall-1">
+                        <a href="/wedding/images/engagement/009.jpg" class="fancybox" data-fancybox-group="gall-1">
                             <img src="/wedding/images/engagement/009.jpg" alt class="img img-responsive">
                         </a>
                     </div>
