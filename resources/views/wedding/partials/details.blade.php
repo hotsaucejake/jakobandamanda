@@ -16,15 +16,18 @@
                         <img src="/wedding/images/primrose.jpg" alt class="img img-responsive">
                     </div>
                     <div class="details">
-                        <h3>Wedding and Reception</h3>
+                        <h3>Ceremony and Reception</h3>
                         <ul>
-                            <li><i class="fa fa-map-marker"></i> 32 big bro road, Roswell, GA.</li>
-                            <li><i class="fa fa-clock-o"></i> May 18 2019, 9AM - 5PM</li>
+                            <li><i class="fa fa-map-marker"></i> <strong>Primrose Cottage</strong><br> 674 Mimosa Boulevard, <br> Roswell, GA 30075</li>
+                            <li><i class="fa fa-clock-o"></i> May 18, 2019, 6:30 PM</li>
                         </ul>
-                        <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
-                        <a class="see-location-btn popup-gmaps" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25211.21212385712!2d144.95275648773628!3d-37.82748510398018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f11fd81%3A0x5045675218ce7e0!2zTWVsYm91cm5lIFZJQyAzMDA0LCDgpoXgprjgp43gpp_gp43gprDgp4fgprLgpr_gpq_gprzgpr4!5e0!3m2!1sbn!2sbd!4v1503742051881">
+                        
+                        <p><a class="see-location-btn popup-gmaps" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.048235830396!2d-84.3664796845903!3d34.01697278061558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f50cae255e3ae1%3A0xb0e6df0ceb7f324b!2sPrimrose+Cottage!5e0!3m2!1sen!2sus!4v1541637936010">
                             See location <i class="fa fa-angle-right"></i>
-                        </a>
+                        </a></p>
+                        <h3 style="margin-top:25px;">Cocktail Attire </h3>
+                        <h3>Adults Only </h3>
+                        <p>Although we love your little ones, you deserve a night off. To allow all guests to relax and enjoy themselves, we have chosen to make our special day adults only. We thank you for understanding. </p>
                     </div>
                 </div>
             </div>

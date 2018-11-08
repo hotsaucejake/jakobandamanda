@@ -16,8 +16,8 @@
                         <div class="col col-md-6">
                             <div class="story-text right-align-text">
                                 <h3>First met</h3>
-                                <span class="date">Feb 17 2014</span>
-                                <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, </p>
+                                <span class="date">Feb 17, 2014</span>
+                                <p>We first met on Jakob's first day at Corus360.  February 17 is the day after Amanda's birthday, and Jakob still likes to joke that he is her greatest gift.  Jakob remembers sitting directly across from her at lunch and how he couldn't keep his eyes off of her.  We soon began secretly conversing via email, texting, and instant messaging, eventually forming our own unique code-language that we're convinced nobody else will be able to decipher.</p>
                             </div>
                         </div>
                         <div class="col col-md-6">
@@ -43,8 +43,8 @@
                             </span>
                             <div class="story-text">
                                 <h3>First date</h3>
-                                <span class="date">Feb 17 2014</span>
-                                <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, </p>
+                                <span class="date">June 28, 2014</span>
+                                <p>Amanda thought it would be a great idea to move back to Charlotte, North Carolina.  Jakob thought it would be an even better idea to chase her, driving up to Charlotte occasionally on weekends in order to take her on dates.  Our first date included bowling, disc golf, a local brewery, walks on nature trails, and a movie.  Jakob would plan elaborate dates from afar to show Amanda what she might be missing. The distance somehow brought us closer, and we soon realized that a few state lines weren't going to keep us apart.</p>
                             </div>
                         </div>
                     </div>
@@ -55,8 +55,8 @@
                             </span>
                             <div class="story-text right-align-text">
                                 <h3>Proposal</h3>
-                                <span class="date">Feb 17 2014</span>
-                                <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, </p>
+                                <span class="date">Feb 17, 2018</span>
+                                <p>On February 17, 2014, a new chapter in our life began when we met each other.  Over the course of four years, we've celebrated many new beginnings in our relationship.  We started out as coworkers who quickly became friends, and our friendship soon developed into a romance we had only ever read about in novels.  It's only fitting that Jakob surprised Amanda at the starting line of her race to ask her to be his wife.  February 17th will always be the day of beginnings for us! </p>
                             </div>
                         </div>
                         <div class="col col-md-6">
@@ -82,8 +82,8 @@
                             </span>
                             <div class="story-text">
                                 <h3>Enagagement</h3>
-                                <span class="date">Feb 17 2018</span>
-                                <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, </p>
+                                <span class="date">May 18, 2019</span>
+                                <p>We look forward to celebrating this day with you as we have spent the past few years celebrating each other.</p>
                             </div>
                         </div>
                     </div>

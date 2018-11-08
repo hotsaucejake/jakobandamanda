@@ -11,12 +11,15 @@
 
         <div class="row content">
             <div class="col col-md-6">
-                <h3>Transportation</h3>
-                <p> industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s</p>
+                <h3>Accommodations</h3>
+                <p>We have reserved a block of rooms for our guests at the DoubleTree by Hilton in Roswell. </p>
+                <p><strong>DoubleTree by Hilton Hotel Atlanta - Roswell </strong></p>
+                <p>1075 Holcomb Bridge Road <br> Roswell, GA 30076 </p>
+                
             </div>
             <div class="col col-md-6">
-                <h3>Accommodations</h3>
-                <p> industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s</p>
+                <h3>Transportation</h3>
+                <p>For guests staying at the DoubleTree by Hilton, there will be a complimentary shuttle from the hotel to and from Primrose Cottage. </p>
             </div>
         </div> <!-- end row -->
     </div> <!-- end container -->

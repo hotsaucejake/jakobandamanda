@@ -6,14 +6,8 @@
                     <div class="details">
                         <div class="details-inner">
                             <h3>The Bride</h3>
-                            <p>Hi I am suntina , dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+                            <p>Shortly after we met, Jakob told me that his mission was to make me smile or laugh every single day. He is truly a man of his word, and I am so grateful to share my life with him. We are looking forward to celebrating with our dearest friends and family soon!  </p>
                             <span class="signature">Amanda</span>
-                            <ul class="social-links">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            </ul>
                         </div>
                     </div>
                     <div class="img-holder wow fadeInRightSlow">
@@ -27,14 +21,8 @@
                     <div class="details">
                         <div class="details-inner">
                             <h3>The groom</h3>
-                            <p>Hi I am suntina , dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+                            <p>I know what all of you are thinking, and you're right... I <em>don't</em> deserve Amanda.  I let her know that every day in both words and actions.  I remember the first day I saw her, there was a glow about her - it's probably because she was sitting in front of a window in the sunlight.  Nevertheless, she has never lost that glow and grows more beautiful by the day.  </p>
                             <span class="signature">Jakob</span>
-                            <ul class="social-links">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            </ul>
                         </div>
                     </div>
                 </div>

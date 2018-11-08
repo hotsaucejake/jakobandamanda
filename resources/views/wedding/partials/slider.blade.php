@@ -62,7 +62,7 @@
         </div>
 
         <div class="save-the-date">
-            <h4>Save the date</h4>
+            <h4>Save the Date</h4>
             <span class="date">18 MAY 2019</span>
         </div>
     </div>
