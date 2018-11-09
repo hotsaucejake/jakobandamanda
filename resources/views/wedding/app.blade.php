@@ -61,11 +61,11 @@
         <!-- end gift-registration-section -->
 
         <!-- start rsvp-section -->
-        @include('wedding.partials.rsvp')
+        {{-- @include('wedding.partials.rsvp') --}}
         <!-- end rsvp-section -->        
 
         <!-- start footer -->
-        {{-- @include('wedding.partials.footer') --}}
+        @include('wedding.partials.footer')
         <!-- end footer -->
 
     </div>

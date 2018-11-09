@@ -5,8 +5,8 @@
     <div class="container">
         <div class="row">
             <div class="col col-xs-12">
-                <h2>Forever and Always Our Love</h2>
-                <span>- Too much cheese</span>
+                <h2>Join Us</h2>
+                <span>May 18, 2019</span>
             </div>
         </div> <!-- end row -->
     </div> <!-- end container -->
