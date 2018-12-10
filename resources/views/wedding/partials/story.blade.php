@@ -25,16 +25,22 @@
                                 <img src="/wedding/images/story/work.jpg" alt class="img img-responsive">
                                 <img src="/wedding/images/story/brewery.jpg" alt class="img img-responsive">
                                 <img src="/wedding/images/story/dinner.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/xmas.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/date.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/bowling.jpg" alt class="img img-responsive">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col col-md-6">
                             <div class="img-holder right-align-text story-slider">
+                                <img src="/wedding/images/story/waterfall.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/walk.jpg" alt class="img img-responsive">
                                 <img src="/wedding/images/story/bball.jpg" alt class="img img-responsive">
                                 <img src="/wedding/images/story/braves.jpg" alt class="img img-responsive">
                                 <img src="/wedding/images/story/braves2.jpg" alt class="img img-responsive">
                                 <img src="/wedding/images/story/football.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/alaska.jpg" alt class="img img-responsive">
                             </div>
                         </div>
                         <div class="col col-md-6 text-holder">
@@ -63,7 +69,10 @@
                             <div class="img-holder right-align-text story-slider">
                                 <img src="/wedding/images/story/engagement.jpg" alt class="img img-responsive">
                                 <img src="/wedding/images/story/420.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/420-2.jpg" alt class="img img-responsive">
                                 <img src="/wedding/images/story/littlebites.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/peachtree.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/boston.jpg" alt class="img img-responsive">
                             </div>
                         </div>
                     </div>
@@ -74,6 +83,8 @@
                                 <img src="/wedding/images/story/together.jpg" alt class="img img-responsive">
                                 <img src="/wedding/images/story/together2.jpg" alt class="img img-responsive">
                                 <img src="/wedding/images/story/mimosa.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/falcons.jpg" alt class="img img-responsive">
+                                <img src="/wedding/images/story/tori-wedding.jpg" alt class="img img-responsive">
                             </div>
                         </div>
                         <div class="col col-md-6 text-holder">
