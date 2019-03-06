@@ -13,6 +13,10 @@
             <div class="col col-md-6">
                 <h3>Accommodations</h3>
                 <p>We have reserved a block of rooms for our guests at the DoubleTree by Hilton in Roswell. </p>
+                <p><a href="https://doubletree.hilton.com/en/dt/groups/personalized/A/ATLRSDT-ECW-20190517/index.jhtml" target="_blank"
+                    class="btn btn-lg btn-primary">Book a Room
+                    </a>
+                </p>
                 <p><strong>DoubleTree by Hilton Hotel Atlanta - Roswell </strong></p>
                 <p>1075 Holcomb Bridge Road <br> Roswell, GA 30076 </p>
                 
