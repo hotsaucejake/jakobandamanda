@@ -20,8 +20,8 @@
                 <a href="https://www.crateandbarrel.com/gift-registry/amanda-epley-and-jakob-crowder/r5878832" target="_blank">
                     <img src="/wedding/images/gift/cratebarrel.png" alt="crate and barrel gift registry" class="img" width="300px" height="auto">
                 </a>
-                <a href="https://www.amazon.com/wedding/amanda-epley-jakob-crowder-roswell-may-2019/registry/3OFRCVQNSKY8" target="_blank">
-                    <img src="/wedding/images/gift/amazon.png" alt="amazon gift registry" class="img" width="300px" height="auto">
+                <a href="https://wanderable.com/hm/jakobandamanda" target="_blank">
+                    <img src="/wedding/images/gift/wanderable-logo.jpg" alt="Wanderable Honeymoon Registry" class="img" width="300px" height="auto">
                 </a>
             </div>
         </div>
