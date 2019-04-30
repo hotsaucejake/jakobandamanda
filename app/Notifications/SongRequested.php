@@ -20,7 +20,7 @@ class SongRequested extends Notification
      *
      * @return void
      */
-    public function __construct(String $name = null, String $song)
+    public function __construct(String $name = 'Anonymous', String $song)
     {
         $this->name = $name;
         $this->song = $song;
@@ -45,14 +45,7 @@ class SongRequested extends Notification
      */
     public function toSlack($notifiable)
     {
-
-        if(isset($this->name))
-        {
-            $content = '*Name:* ' . $this->name . ' :musical_note: :musical_note: :musical_note: *Song Request:* ' . $this->song;
-        }
-
-        $content = ' :musical_note: :musical_note: :musical_note: *Song Request:* ' . $this->song;
-
+        $content = '*Name:* ' . $this->name . ' :musical_note: :musical_note: :musical_note: *Song Request:* ' . $this->song;
 
         return (new SlackMessage)
                     ->content($content);
