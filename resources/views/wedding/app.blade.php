@@ -60,6 +60,8 @@
         @include('wedding.partials.registration')
         <!-- end gift-registration-section -->
 
+        @include('wedding.partials.song-request')
+
         <!-- start rsvp-section -->
         {{-- @include('wedding.partials.rsvp') --}}
         <!-- end rsvp-section -->        

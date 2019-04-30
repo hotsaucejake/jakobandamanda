@@ -22,6 +22,7 @@
                     <li><a href="#details">Details</a></li>
                     <li><a href="#gallery">Gallery</a></li>
                     <li><a href="#registry">Gift Registry</a></li>
+                    <li><a href="#song">Song Request</a></li>
                     <!-- <li><a href="#rsvp">RSVP</a></li> -->
                 </ul>
             </div><!-- end of nav-collapse -->

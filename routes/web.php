@@ -12,3 +12,5 @@
 */
 
 Route::get('/', 'HomeController@index');
+
+Route::post('/song', 'SongRequestController@store')->name('song');
